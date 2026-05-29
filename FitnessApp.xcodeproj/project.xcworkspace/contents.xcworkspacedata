@@ -4,4 +4,14 @@
    <FileRef
       location = "self:">
    </FileRef>
+   <Group
+      location = "group:FitnessAppWatchApp"
+      name = "FitnessAppWatchApp">
+      <FileRef
+         location = "group:FitnessAppWatchApp.swift">
+      </FileRef>
+      <FileRef
+         location = "group:FitnessAppWatchApp.entitlements">
+      </FileRef>
+   </Group>
 </Workspace>
